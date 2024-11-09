@@ -11,3 +11,7 @@ Endpoints:
 #PUT /api/reservations/{id}: Update a reservation
 #DELETE /api/reservations/{id}: Cancel a reservation
 This project is ideal for developers looking to understand secure booking systems, date validations, and Django REST API design.
+
+
+login :adminauto
+pwd:adminauto
